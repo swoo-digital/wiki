@@ -1,11 +1,11 @@
 **(Neues) Feature:**
 
 
-**Funktionstest** (Die Akzeptanzkriterien sind die Mindestanforderungen, die die jeweilige Seite der App erfüllen muss)
+**1. Funktionstest** (Die Akzeptanzkriterien sind die Mindestanforderungen, die die jeweilige Seite der App erfüllen muss)
 
 - [ ] Die Akzeptanzkriterien sind erfüllt
 
-**Das Design und Layout der App Seiten entspricht dem Prototypen**
+**2. Das Design und Layout der App Seiten entspricht dem Prototypen**
 
 - [ ] Abstände
 - [ ] Schriftgröße
@@ -17,7 +17,7 @@
 - [ ] Sprache
 
 
-**Pakete** (Pakete sind einzelne App Seiten die zusammen einen Prozess o.ä. widerspiegeln z.B.  einen Anmeldeprozess)
+**3. Pakete** (Pakete sind einzelne App Seiten die zusammen einen Prozess o.ä. widerspiegeln z.B.  einen Anmeldeprozess)
 
 - [ ] Funktionalität
 - [ ] Das Paket ist im Prototypen nachvollziehbar
@@ -39,7 +39,6 @@
 **Funktionstest** (Die Akzeptanzkriterien sind die Mindestanforderungen, die die jeweilige Seite der App erfüllen muss)
 
 - [ ] Die Akzeptanzkriterien sind erfüllt
-
 
 
 **Unterschiedliche Devices** (Der obige Prozess wird mit ausgewählten Geräten wiederholt)
