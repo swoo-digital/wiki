@@ -1,4 +1,6 @@
-**IOS**
+**Apps:**                                           
+
+**IOS**                                              
 - [ ] Iphone 13/15
 - [ ] XS/12
 
@@ -21,3 +23,10 @@ Huawei
 OnePlus
   - [ ] OnePlus 9/11
   - [ ] OnePlus 7t/10
+
+**Webapps**
+
+- [ ] Google Chrome
+- [ ] Mozilla Firefox
+- [ ] Safari
+- [ ] Microsoft Edge
