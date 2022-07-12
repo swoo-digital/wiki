@@ -1,32 +1,23 @@
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Description** (Optional)
 
-**To Reproduce**
-Steps to reproduce the behavior:
+The Description is optional, because bugs usually explain themselves.
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Acceptance Criteria**
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+- [ ] #1 Please Change... to...
+- [ ] #2 The font Size of... is...
+- [ ] #3 The Color of... is...
+- [ ] #4
+- [ ] #5
+- [ ] Definition of Done was complied
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Definition of Done**
+[Definition of Done for Developers](https://github.com/swoo-digital/wiki/blob/main/guideline-developer.md)
 
-**Desktop (please complete the following information):**
+**Prototype**
+[Link to prototype](https://framer.com)
 
-- OS: [e.g. iOS]
-- Browser [e.g. chrome, safari]
-- Version [e.g. 22]
+**Screenshots/Videos**
+https://loom.com
 
-**Smartphone (please complete the following information):**
-
-- Device: [e.g. iPhone6]
-- OS: [e.g. iOS8.1]
-- Browser [e.g. stock browser, safari]
-- Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+Please be sure that the bugs on the screenshot are numbered and can be assigned unambiguously
